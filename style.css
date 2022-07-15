@@ -1,0 +1,96 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+
+
+.navbar {font-family: 'Mingzat', sans-serif;
+
+    background-color:rgb(23, 81, 240) ;
+    color: #E3E8F0;
+    margin-top: -24px;
+}
+
+.fw-bold{
+    color: #E3E8F0;
+}
+
+a {
+    color:#E7D2CC ;
+  } 
+
+
+
+
+
+
+div.card-body{
+    font-family: 'Mingzat', sans-serif;
+    margin-top: 16px;
+    
+
+}
+
+button.btn.btn-info{
+    font-family: 'Mingzat', sans-serif;
+    border-color:  rgb(17, 188, 201);
+    color: rgb(235, 65, 42);
+
+    
+    
+}
+
+a.nav-link{color: #fbff07}
+
+.card-body.text-center{
+     
+    border-radius: 7px;
+}
+
+img{
+    background-color: #5a7cbb;
+    border-radius: 10px;
+}
+
+.card-body.text-center h1{
+    font-size: 25px;
+    font-weight: 800;
+    color: rgb(175 60 26);
+}
+
+body{
+    background-color:#E7D2CC
+    
+}
+
+.navbar-brand{
+    color:rgb(253, 237, 10);
+}
+.navbar-nav.nav-link.active.navbar-nav.show.nav-link{
+    color: #fbff07;
+}
+
+
+
+div.card.shadow-lg.bg-body.rounded{
+    border-left: 6px solid rgb(28, 69, 189);
+   ;
+}
+
+
+a:hover {
+    background-color: rgba(180, 173, 219, 0)
+    
+  } 
+
+  .infor{
+    color: rgb(189, 63, 14);
+  }
+  div.card.shadow-lg.bg-body.rounded{
+    background-color:rgb(23, 81, 240 ;
+  }
+
+  
+}
+
